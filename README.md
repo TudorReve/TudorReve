@@ -27,10 +27,13 @@
 </p>
 
 <h3 align="left">Skills:</h3>
-<ul>
-  <li>Electronics Knowledge</li>
-  <li>VHDL</li>
-  <li>MicroPython</li>
-  <li>CID (Digital Integrated Circuits)</li>
-  <li>Orcad Knowledge</li>
-</ul>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <ul>
+    <li>Electronics Knowledge</li>
+    <li>VHDL</li>
+    <li>MicroPython</li>
+    <li>CID (Cell ID / Location services)</li>
+    <li>Orcad Knowledge</li>
+  </ul>
+  <img src="https://raw.githubusercontent.com/tudorrevei/assets/main/electronics-parts.png" alt="Electronics Parts" width="300" style="border-radius: 10px;"/>
+</div>
