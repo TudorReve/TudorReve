@@ -31,6 +31,6 @@
   <li>Electronics Knowledge</li>
   <li>VHDL</li>
   <li>MicroPython</li>
-  <li>CID (Cell ID / Location services)</li>
+  <li>CID (Digital Integrated Circuits)</li>
   <li>Orcad Knowledge</li>
 </ul>
