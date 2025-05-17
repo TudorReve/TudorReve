@@ -26,4 +26,11 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tudorreve&show_icons=true&locale=en&layout=compact" alt="tudorreve" /></p>
+<h3 align="left">Skills:</h3>
+<ul>
+  <li>Electronics Knowledge</li>
+  <li>VHDL</li>
+  <li>MicroPython</li>
+  <li>CID (Cell ID / Location services)</li>
+  <li>Orcad Knowledge</li>
+</ul>
