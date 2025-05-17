@@ -3,8 +3,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tudor-revei-b6b2002b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tudor-revei-b6b2002b8" height="30" width="40" /></a>
-<a href="https://instagram.com/tudorrevei99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tudorrevei99" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tudor-revei-b6b2002b8" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tudor-revei-b6b2002b8" height="30" width="40" />
+</a>
+<a href="https://instagram.com/tudorrevei99" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tudorrevei99" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,13 +31,20 @@
 </p>
 
 <h3 align="left">Skills:</h3>
-<div style="display: flex; align-items: center; gap: 20px;">
-  <ul>
-    <li>Electronics Knowledge</li>
-    <li>VHDL</li>
-    <li>MicroPython</li>
-    <li>CID (Cell ID / Location services)</li>
-    <li>Orcad Knowledge</li>
-  </ul>
-  <img src="https://images.pond5.com/electronic-circuit-board-animation-digital-footage-245847602_iconl.jpeg" alt="Electronics Parts" width="300" style="border-radius: 10px;"/>
-</div>
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>Electronics Knowledge</li>
+        <li>VHDL</li>
+        <li>MicroPython</li>
+        <li>CID (Cell ID / Location services)</li>
+        <li>Orcad Knowledge</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://images.pond5.com/electronic-circuit-board-animation-digital-footage-245847602_iconl.jpeg" alt="Electronics Parts" width="300" />
+    </td>
+  </tr>
+</table>
