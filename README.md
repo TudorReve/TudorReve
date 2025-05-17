@@ -1,12 +1,12 @@
-<p align="right">
-  <img src="https://images.pond5.com/electronic-circuit-board-animation-digital-footage-245847602_iconl.jpeg" alt="Electronics Visual" width="300">
-</p>
+<table>
+  <tr>
+    <td style="vertical-align: middle; width: 70%;">
 
-<h1 align="left">Hi 👋, I'm Revei Tudor Stefan</h1>
-<h3 align="left">A young electronist eager to learn more things</h3>
+<h1>Hi 👋, I'm Revei Tudor Stefan</h1>
+<h3>A young electronist eager to learn more things</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+<p>
   <a href="https://linkedin.com/in/tudor-revei-b6b2002b8" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -15,20 +15,26 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><strong>Languages:</strong> Romanian (main, expert), English (expert), German (beginner)</p>
-<p align="left">
+<h3>Languages and Tools:</h3>
+<p><strong>Languages:</strong> Romanian (main, expert), English (expert), German (beginner)</p>
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
 </p>
 
-<h3 align="left">Skills:</h3>
-<ul align="left">
+<h3>Skills:</h3>
+<ul>
   <li>Electronics Knowledge</li>
   <li>VHDL</li>
   <li>MicroPython</li>
   <li>CID (Cell ID / Location services)</li>
   <li>Orcad Knowledge</li>
 </ul>
+    </td>
+    <td style="vertical-align: middle; text-align: center;">
+      <img src="https://images.pond5.com/electronic-circuit-board-animation-digital-footage-245847602_iconl.jpeg" alt="Electronics Visual" width="350">
+    </td>
+  </tr>
+</table>
