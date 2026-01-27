@@ -42,8 +42,8 @@
 
   <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/>
-  <img src="./assets/altium.png" width="45" alt="Altium Designer"/>
-  <img src="./assets/orcad.png" width="45" alt="OrCAD"/>
+  <img src="./assets/altium.png" width="50" alt="Altium Designer"/>
+  <img src="./assets/orcad.png" width="50" alt="OrCAD"/>
 </p>
 
 
