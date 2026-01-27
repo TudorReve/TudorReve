@@ -65,44 +65,36 @@
 
 ## 📌 My Projects
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking">
-        <img src="./assets/drona.png" width="260" alt="Intelligent FPV Drone"/>
-      </a>
-      <br/>
-      <b>Intelligent FPV Drone</b><br/>
-      <sub><i>Object detection & tracking</i></sub>
-    </td>
+<p align="center">
+  <a href="https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking">
+    <img src="./assets/drona.png" width="260" alt="Intelligent FPV Drone"/><br/>
+    <b>Intelligent FPV Drone</b><br/>
+    <sub><i>Object detection & tracking</i></sub>
+  </a>
 
-    <td align="center" width="50%">
-      <a href="https://github.com/TudorReve/Danger-Alert-System">
-        <img src="./assets/drona.png" width="260" alt="Danger Alert System"/>
-      </a>
-      <br/>
-      <b>Danger Alert System</b><br/>
-      <sub><i>Embedded safety solution</i></sub>
-    </td>
-  </tr>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/TudorReve/Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board">
-        <img src="./assets/drona.png" width="260" alt="Raspberry Pi IoT Router"/>
-      </a>
-      <br/>
-      <b>Raspberry Pi IoT Router</b><br/>
-      <sub><i>Ethernet expansion board</i></sub>
-    </td>
+  <a href="https://github.com/TudorReve/Danger-Alert-System">
+    <img src="./assets/drona.png" width="260" alt="Danger Alert System"/><br/>
+    <b>Danger Alert System</b><br/>
+    <sub><i>Embedded safety solution</i></sub>
+  </a>
+</p>
 
-    <td align="center" width="50%">
-      <a href="https://github.com/TudorReve/Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects">
-        <img src="./assets/drona.png" width="260" alt="Guitar DSP Board"/>
-      </a>
-      <br/>
-      <b>Guitar DSP Board</b><br/>
-      <sub><i>Audio signal processing</i></sub>
-    </td>
-  </tr>
-</table>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/TudorReve/Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board">
+    <img src="./assets/drona.png" width="260" alt="Raspberry Pi IoT Router"/><br/>
+    <b>Raspberry Pi IoT Router</b><br/>
+    <sub><i>Ethernet expansion board</i></sub>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/TudorReve/Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects">
+    <img src="./assets/drona.png" width="260" alt="Guitar DSP Board"/><br/>
+    <b>Guitar DSP Board</b><br/>
+    <sub><i>Audio signal processing</i></sub>
+  </a>
+</p>
