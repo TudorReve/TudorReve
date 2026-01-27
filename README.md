@@ -67,19 +67,19 @@
 
 <p align="center">
   <a href="https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking">
-    <img src="./assets/drona.png" width="50" alt="MY FPV Drone"/>
+    <img src="./assets/drona.png" width="500" alt="MY FPV Drone"/>
   </a>
   <a href="https://github.com/TudorReve/Danger-Alert-System">
-    <img src="./assets/drona.png" width="50" alt="MY FPV Drone"/>
+    <img src="./assets/drona.png" width="500" alt="MY FPV Drone"/>
   </a>
 </p>
 
 <p align="center">
   <a href="[https://github.com/USERNAME/repo-3](https://github.com/TudorReve/Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board)">
-   <img src="./assets/drona.png" width="50" alt="MY FPV Drone"/>
+   <img src="./assets/drona.png" width="500" alt="MY FPV Drone"/>
   </a>
   <a href="[https://github.com/USERNAME/repo-4](https://github.com/TudorReve/Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects)">
-    <img src="./assets/drona.png" width="50" alt="MY FPV Drone"/>
+    <img src="./assets/drona.png" width="500" alt="MY FPV Drone"/>
   </a>
 </p>
 
