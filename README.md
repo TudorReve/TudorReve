@@ -67,6 +67,6 @@
 
 
 | | |
-|---|---|
-| [<img src="./assets/drona.png" width="240">](https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking)<br><b>Intelligent FPV Drone</b><br><sub>Object detection & tracking</sub> | [<img src="./assets/drona.png" width="240">](https://github.com/TudorReve/Danger-Alert-System)<br><b>Danger Alert System</b><br><sub>Embedded safety solution</sub> |
-| [<img src="./assets/drona.png" width="240">](https://github.com/TudorReve/Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board)<br><b>Raspberry Pi IoT Router</b><br><sub>Ethernet expansion board</sub> | [<img src="./assets/drona.png" width="240">](https://github.com/TudorReve/Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects)<br><b>Guitar DSP Board</b><br><sub>Audio signal processing</sub> |
+|:--:|:--:|
+| <p align="center">[<img src="./assets/drona.png" width="240">](https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking)<br><b>Intelligent FPV Drone</b><br><sub>Object detection & tracking</sub></p> | <p align="center">[<img src="./assets/drona.png" width="240">](https://github.com/TudorReve/Danger-Alert-System)<br><b>Danger Alert System</b><br><sub>Embedded safety solution</sub></p> |
+| <p align="center">[<img src="./assets/drona.png" width="240">](https://github.com/TudorReve/Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board)<br><b>Raspberry Pi IoT Router</b><br><sub>Ethernet expansion board</sub></p> | <p align="center">[<img src="./assets/drona.png" width="240">](https://github.com/TudorReve/Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects)<br><b>Guitar DSP Board</b><br><sub>Audio signal processing</sub></p> |
