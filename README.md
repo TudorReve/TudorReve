@@ -65,7 +65,6 @@
 
 ## 📌 My Projects
 
-
 | | |
 |:--:|:--:|
 | <p align="center">[<img src="./assets/drona.png" width="240">](https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking)<br><b>Intelligent FPV Drone</b><br><sub>Object detection & tracking</sub></p> | <p align="center">[<img src="./assets/drona.png" width="240">](https://github.com/TudorReve/Danger-Alert-System)<br><b>Danger Alert System</b><br><sub>Embedded safety solution</sub></p> |
