@@ -57,7 +57,10 @@
 <p><i>Embedded systems & aerial technology 🚁</i></p>
 
 </td>
+</tr>
+</table>
 
+---
 
 
 ## 📌 My Projects
