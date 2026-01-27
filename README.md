@@ -10,100 +10,79 @@
   </a>
 </p>
 
-<hr/>
+---
 
 <table>
-  <tr>
-    <td width="60%" valign="top">
+<tr>
+<td width="60%" valign="top">
 
-      <h3>🧠 About Me</h3>
-      <ul>
-        <li>🔌 Passionate about <b>Electronics, Embedded Systems & Drones</b></li>
-        <li>🧠 Strong interest in <b>microcontrollers & low-level programming</b></li>
-        <li>🚀 Always learning and experimenting with new technologies</li>
-        <li>🚁 Curious about <b>flight control, sensors & aerial systems</b></li>
-      </ul>
+### 🧠 About Me
+- 🔌 Passionate about **Electronics, Embedded Systems & Drones**
+- 🧠 Strong interest in **microcontrollers & low-level programming**
+- 🚀 Always learning and experimenting with new technologies
+- 🚁 Curious about **flight control, sensors & aerial systems**
 
-      <h3>🌍 Languages</h3>
-      <ul>
-        <li>🇷🇴 Romanian — <b>Expert</b></li>
-        <li>🇬🇧 English — <b>Expert</b></li>
-        <li>🇩🇪 German — <b>Beginner</b></li>
-      </ul>
+### 🌍 Languages
+- 🇷🇴 Romanian — **Expert**
+- 🇬🇧 English — **Expert**
+- 🇩🇪 German — **Beginner**
 
-      <h3>🛠️ Core Skills</h3>
-      <ul>
-        <li>🐍 <b>Python / MicroPython</b></li>
-        <li>🔧 <b>Altium Designer (PCB Design)</b></li>
-        <li>🤖 <b>Microcontrollers (ESP32, STM32, Arduino)</b></li>
-        <li>⚡ <b>Embedded Systems & Hardware Debugging</b></li>
-      </ul>
+### 🛠️ Core Skills
+- 🐍 **Python / MicroPython**
+- 🔧 **Altium Designer (PCB Design)**
+- 🤖 **Microcontrollers (ESP32, STM32, Arduino)**
+- ⚡ **Embedded Systems & Hardware Debugging**
 
-      <h3>💻 Programming & Tools</h3>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="45"/>
-        <img src="./assets/altium.png" width="50" alt="Altium Designer"/>
-        <img src="./assets/orcad.png" width="50" alt="OrCAD"/>
-      </p>
+### 💻 Programming & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</p>
 
-    </td>
+<p>
+  <img src="https://img.shields.io/badge/Altium%20Designer-0B0F19?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OrCAD-0B0F19?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0B0F19?style=for-the-badge&logo=mathworks&logoColor=white" />
+</p>
 
-    <td width="40%" align="center" valign="top">
-      <img src="./drone.gif" width="320" alt="Drone Technology"/>
-      <br/>
-      <i>Embedded systems & aerial technology 🚁</i>
-    </td>
-  </tr>
+</td>
+
+<td width="40%" align="center">
+
+<p align="center">
+  <img src="./drone.gif" width="320" alt="Drone Technology"/>
+</p>
+
+<p><i>Embedded systems & aerial technology 🚁</i></p>
+
+</td>
+</tr>
 </table>
 
-<hr/>
+---
 
-<h2>📌 My Projects</h2>
+## 📌 Pinned Repositories
 
-<!-- RÂNDUL 1 -->
 <p align="center">
-  <a href="https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking">
-    <img src="./assets/drona.png" width="260"/>
-    <br/>
-    <b>Intelligent FPV Drone</b><br/>
-    <sub>Object detection & tracking</sub>
+  <a href="https://github.com/USERNAME/repo-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-1&theme=dark" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/TudorReve/Danger-Alert-System">
-    <img src="./assets/drona.png" width="260"/>
-    <br/>
-    <b>Danger Alert System</b><br/>
-    <sub>Embedded safety solution</sub>
+  <a href="https://github.com/USERNAME/repo-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-2&theme=dark" />
   </a>
 </p>
 
-<br/>
-
-<!-- RÂNDUL 2 -->
 <p align="center">
-  <a href="https://github.com/TudorReve/Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board">
-    <img src="./assets/drona.png" width="260"/>
-    <br/>
-    <b>Raspberry Pi IoT Router</b><br/>
-    <sub>Ethernet expansion board</sub>
+  <a href="https://github.com/USERNAME/repo-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-3&theme=dark" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/TudorReve/Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects">
-    <img src="./assets/drona.png" width="260"/>
-    <br/>
-    <b>Guitar DSP Board</b><br/>
-    <sub>Audio signal processing</sub>
+  <a href="https://github.com/USERNAME/repo-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-4&theme=dark" />
   </a>
 </p>
 
-<hr/>
+---
 
 <p align="center">
   ✈️ <b>“Engineering systems that don’t just work — they take flight.”</b>
