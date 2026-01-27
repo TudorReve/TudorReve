@@ -1,40 +1,62 @@
+<h1 align="center">👋 Hi, I'm Revei Tudor Stefan</h1>
+<h3 align="center">⚡ Young Electronics Engineer | Passionate Learner</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/tudor-revei-b6b2002b8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/tudorrevei99" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <table>
-  <tr>
-    <td style="vertical-align: middle; width: 70%;">
+<tr>
+<td width="60%" valign="top">
 
-<h1>Hi 👋, I'm Revei Tudor Stefan</h1>
-<h3>A young electronist eager to learn more things</h3>
+### 🧠 About Me
+- 🔌 Passionate about **Electronics & Embedded Systems**
+- 🚀 Always curious to learn new technologies
+- 🛠️ Enjoy working on **hardware + software integration**
 
-<h3>Connect with me:</h3>
+### 🌍 Languages
+- 🇷🇴 Romanian — **Expert**
+- 🇬🇧 English — **Expert**
+- 🇩🇪 German — **Beginner**
+
+### 🛠️ Skills
+- Electronics Knowledge  
+- VHDL  
+- MicroPython  
+- CID (Cell ID / Location Services)  
+- OrCAD  
+
+### 💻 Programming Languages & Tools
 <p>
-  <a href="https://linkedin.com/in/tudor-revei-b6b2002b8" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/tudorrevei99" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
 </p>
 
-<h3>Languages and Tools:</h3>
-<p><strong>Languages:</strong> Romanian (main, expert), English (expert), German (beginner)</p>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-</p>
+</td>
 
-<h3>Skills:</h3>
-<ul>
-  <li>Electronics Knowledge</li>
-  <li>VHDL</li>
-  <li>MicroPython</li>
-  <li>CID (Cell ID / Location services)</li>
-  <li>Orcad Knowledge</li>
-</ul>
-    </td>
-    <td style="vertical-align: middle; text-align: center;">
-      <img src="https://images.pond5.com/electronic-circuit-board-animation-digital-footage-245847602_iconl.jpeg" alt="Electronics Visual" width="350">
-    </td>
-  </tr>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/3o7TKxoh0kY6p8kFLa/giphy.gif" 
+     alt="Drone Technology" 
+     width="320"/>
+
+<p><i>Embedded systems & aerial technology 🚁</i></p>
+
+</td>
+</tr>
 </table>
+
+---
+
+<p align="center">
+  ⚡ <b>“Turning ideas into electronic reality”</b>
+</p>
