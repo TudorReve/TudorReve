@@ -65,44 +65,44 @@
 
 ## 📌 My Projects
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" style="padding: 15px;">
+    <td align="center" width="50%">
       <a href="https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking">
-        <img src="./assets/drona.png" width="260" alt="FPV Drone Project"/>
+        <img src="./assets/drona.png" width="260" alt="Intelligent FPV Drone"/>
       </a>
       <br/>
       <b>Intelligent FPV Drone</b><br/>
-      <i>Object detection & tracking</i>
+      <sub><i>Object detection & tracking</i></sub>
     </td>
 
-    <td align="center" style="padding: 15px;">
+    <td align="center" width="50%">
       <a href="https://github.com/TudorReve/Danger-Alert-System">
         <img src="./assets/drona.png" width="260" alt="Danger Alert System"/>
       </a>
       <br/>
       <b>Danger Alert System</b><br/>
-      <i>Embedded safety solution</i>
+      <sub><i>Embedded safety solution</i></sub>
     </td>
   </tr>
 
   <tr>
-    <td align="center" style="padding: 15px;">
+    <td align="center" width="50%">
       <a href="https://github.com/TudorReve/Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board">
         <img src="./assets/drona.png" width="260" alt="Raspberry Pi IoT Router"/>
       </a>
       <br/>
       <b>Raspberry Pi IoT Router</b><br/>
-      <i>Ethernet expansion board</i>
+      <sub><i>Ethernet expansion board</i></sub>
     </td>
 
-    <td align="center" style="padding: 15px;">
+    <td align="center" width="50%">
       <a href="https://github.com/TudorReve/Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects">
         <img src="./assets/drona.png" width="260" alt="Guitar DSP Board"/>
       </a>
       <br/>
       <b>Guitar DSP Board</b><br/>
-      <i>Audio signal processing</i>
+      <sub><i>Audio signal processing</i></sub>
     </td>
   </tr>
 </table>
