@@ -63,28 +63,22 @@
 
 ---
 
-## 📌 Pinned Repositories
+## 📌 My Projects
 
 <p align="center">
-  <a href="https://github.com/USERNAME/repo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-1&theme=dark" />
+  <a href="https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&repo=Intelligent-FPV-Drone-for-Object-Detection-and-Tracking&theme=dark" />
   </a>
-  <a href="https://github.com/USERNAME/repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-2&theme=dark" />
+  <a href="https://github.com/TudorReve/Danger-Alert-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&repo=Danger-Alert-System&theme=dark" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/USERNAME/repo-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-3&theme=dark" />
+  <a href="https://github.com/TudorReve/Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&repo=Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board&theme=dark" />
   </a>
-  <a href="https://github.com/USERNAME/repo-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-4&theme=dark" />
+  <a href="https://github.com/TudorReve/Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&repo=Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects&theme=dark" />
   </a>
-</p>
-
----
-
-<p align="center">
-  ✈️ <b>“Engineering systems that don’t just work — they take flight.”</b>
 </p>
