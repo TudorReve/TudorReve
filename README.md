@@ -59,7 +59,7 @@
 ## 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/USERNAME/repo-1">
+  <a href="[https://github.com/USERNAME/repo-1](https://github.com/TudorReve/Danger-Alert-System)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-1&theme=dark" />
   </a>
   <a href="https://github.com/USERNAME/repo-2">
