@@ -35,16 +35,17 @@
 
 ### 💻 Programming & Tools
 <p>
+  <!-- Programming languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/>
+  <img src="./assets/altium.png" width="40" alt="Altium Designer"/>
+  <img src="./assets/orcad.png" width="40" alt="OrCAD"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Altium%20Designer-0B0F19?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OrCAD-0B0F19?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0B0F19?style=for-the-badge&logo=mathworks&logoColor=white" />
-</p>
 
 </td>
 
