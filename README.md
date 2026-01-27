@@ -16,51 +16,38 @@
 <tr>
 <td width="60%" valign="top">
 
-### 🧠 About Me
+## 🧠 About Me
 - 🔌 Passionate about **Electronics, Embedded Systems & Drones**
 - 🧠 Strong interest in **microcontrollers & low-level programming**
 - 🚀 Always learning and experimenting with new technologies
 - 🚁 Curious about **flight control, sensors & aerial systems**
 
-### 🌍 Languages
+## 🌍 Languages
 - 🇷🇴 Romanian — **Expert**
 - 🇬🇧 English — **Expert**
 - 🇩🇪 German — **Beginner**
 
-### 🛠️ Core Skills
+## 🛠️ Core Skills
 - 🐍 **Python / MicroPython**
 - 🔧 **Altium Designer (PCB Design)**
 - 🤖 **Microcontrollers (ESP32, STM32, Arduino)**
 - ⚡ **Embedded Systems & Hardware Debugging**
 
-### 💻 Programming & Tools
+## 💻 Programming & Tools
 <p>
-  <!-- Programming languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/>
-  <img src="./assets/altium.png" width="50" alt="Altium Designer"/>
-  <img src="./assets/orcad.png" width="50" alt="OrCAD"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="48"/>
+  <img src="./assets/altium.png" width="52"/>
+  <img src="./assets/orcad.png" width="52"/>
 </p>
-
-</td>
-
-<td width="40%" align="center">
 
 <p align="center">
   <img src="./drone.gif" width="320" alt="Drone Technology"/>
+  <br/>
+  <i>Embedded systems & aerial technology 🚁</i>
 </p>
-
-<p><i>Embedded systems & aerial technology 🚁</i></p>
-
-</td>
-</tr>
-
-
----
 
 
 ## 📌 My Projects
