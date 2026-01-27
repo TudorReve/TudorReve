@@ -10,64 +10,62 @@
   </a>
 </p>
 
----
+<hr/>
 
 <table>
-<tr>
-<td width="60%" valign="top">
+  <tr>
+    <td width="60%" valign="top">
 
-### 🧠 About Me
-- 🔌 Passionate about **Electronics, Embedded Systems & Drones**
-- 🧠 Strong interest in **microcontrollers & low-level programming**
-- 🚀 Always learning and experimenting with new technologies
-- 🚁 Curious about **flight control, sensors & aerial systems**
+      <h3>🧠 About Me</h3>
+      <ul>
+        <li>🔌 Passionate about <b>Electronics, Embedded Systems & Drones</b></li>
+        <li>🧠 Strong interest in <b>microcontrollers & low-level programming</b></li>
+        <li>🚀 Always learning and experimenting with new technologies</li>
+        <li>🚁 Curious about <b>flight control, sensors & aerial systems</b></li>
+      </ul>
 
-### 🌍 Languages
-- 🇷🇴 Romanian — **Expert**
-- 🇬🇧 English — **Expert**
-- 🇩🇪 German — **Beginner**
+      <h3>🌍 Languages</h3>
+      <ul>
+        <li>🇷🇴 Romanian — <b>Expert</b></li>
+        <li>🇬🇧 English — <b>Expert</b></li>
+        <li>🇩🇪 German — <b>Beginner</b></li>
+      </ul>
 
-### 🛠️ Core Skills
-- 🐍 **Python / MicroPython**
-- 🔧 **Altium Designer (PCB Design)**
-- 🤖 **Microcontrollers (ESP32, STM32, Arduino)**
-- ⚡ **Embedded Systems & Hardware Debugging**
+      <h3>🛠️ Core Skills</h3>
+      <ul>
+        <li>🐍 <b>Python / MicroPython</b></li>
+        <li>🔧 <b>Altium Designer (PCB Design)</b></li>
+        <li>🤖 <b>Microcontrollers (ESP32, STM32, Arduino)</b></li>
+        <li>⚡ <b>Embedded Systems & Hardware Debugging</b></li>
+      </ul>
 
-### 💻 Programming & Tools
-<p>
-  <!-- Programming languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+      <h3>💻 Programming & Tools</h3>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" alt="C"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" alt="Python"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="48" alt="MATLAB"/>
+        <img src="./assets/altium.png" width="52" alt="Altium Designer"/>
+        <img src="./assets/orcad.png" width="52" alt="OrCAD"/>
+      </p>
 
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/>
-  <img src="./assets/altium.png" width="50" alt="Altium Designer"/>
-  <img src="./assets/orcad.png" width="50" alt="OrCAD"/>
-</p>
+    </td>
 
-
-</td>
-
-<td width="40%" align="center">
-
-<p align="center">
-  <img src="./drone.gif" width="320" alt="Drone Technology"/>
-</p>
-
-<p><i>Embedded systems & aerial technology 🚁</i></p>
-
-</td>
-</tr>
+    <td width="40%" align="center" valign="top">
+      <img src="./drone.gif" width="320" alt="Drone Technology"/>
+      <br/>
+      <i>Embedded systems & aerial technology 🚁</i>
+    </td>
+  </tr>
 </table>
 
----
+<hr/>
 
-## 📌 My Projects
+<h2>📌 My Projects</h2>
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" valign="top">
       <a href="https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking">
         <img src="./assets/drona.png" width="240" alt="Intelligent FPV Drone"/>
       </a>
@@ -76,7 +74,7 @@
       <sub><i>Object detection & tracking</i></sub>
     </td>
 
-    <td align="center">
+    <td align="center" valign="top">
       <a href="https://github.com/TudorReve/Danger-Alert-System">
         <img src="./assets/drona.png" width="240" alt="Danger Alert System"/>
       </a>
@@ -86,9 +84,10 @@
     </td>
   </tr>
 
+  <tr><td colspan="2"><br/></td></tr>
+
   <tr>
-    <td align="center">
-      <br/>
+    <td align="center" valign="top">
       <a href="https://github.com/TudorReve/Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board">
         <img src="./assets/drona.png" width="240" alt="Raspberry Pi IoT Router"/>
       </a>
@@ -97,8 +96,7 @@
       <sub><i>Ethernet expansion board</i></sub>
     </td>
 
-    <td align="center">
-      <br/>
+    <td align="center" valign="top">
       <a href="https://github.com/TudorReve/Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects">
         <img src="./assets/drona.png" width="240" alt="Guitar DSP Board"/>
       </a>
@@ -108,3 +106,9 @@
     </td>
   </tr>
 </table>
+
+<hr/>
+
+<p align="center">
+  ✈️ <b>“Engineering systems that don’t just work — they take flight.”</b>
+</p>
