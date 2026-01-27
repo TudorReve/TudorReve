@@ -47,21 +47,7 @@
 </p>
 
 
-</td>
 
-<td width="40%" align="center">
-
-<p align="center">
-  <img src="./drone.gif" width="320" alt="Drone Technology"/>
-</p>
-
-<p><i>Embedded systems & aerial technology 🚁</i></p>
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📌 My Projects
 
