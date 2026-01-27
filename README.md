@@ -65,42 +65,9 @@
 
 ## 📌 My Projects
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking">
-        <img src="./assets/drona.png" width="240"/>
-      </a>
-      <br/><b>Intelligent FPV Drone</b><br/>
-      <sub>Object detection & tracking</sub>
-    </td>
+## 📌 My Projects
 
-    <td align="center">
-      <a href="https://github.com/TudorReve/Danger-Alert-System">
-        <img src="./assets/drona.png" width="240"/>
-      </a>
-      <br/><b>Danger Alert System</b><br/>
-      <sub>Embedded safety solution</sub>
-    </td>
-  </tr>
-
-  <tr><td colspan="2"><br/></td></tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://github.com/TudorReve/Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board">
-        <img src="./assets/drona.png" width="240"/>
-      </a>
-      <br/><b>Raspberry Pi IoT Router</b><br/>
-      <sub>Ethernet expansion board</sub>
-    </td>
-
-    <td align="center">
-      <a href="https://github.com/TudorReve/Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects">
-        <img src="./assets/drona.png" width="240"/>
-      </a>
-      <br/><b>Guitar DSP Board</b><br/>
-      <sub>Audio signal processing</sub>
-    </td>
-  </tr>
-</table>
+| | |
+|---|---|
+| [<img src="./assets/drona.png" width="240">](https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking)<br><b>Intelligent FPV Drone</b><br><sub>Object detection & tracking</sub> | [<img src="./assets/drona.png" width="240">](https://github.com/TudorReve/Danger-Alert-System)<br><b>Danger Alert System</b><br><sub>Embedded safety solution</sub> |
+| [<img src="./assets/drona.png" width="240">](https://github.com/TudorReve/Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board)<br><b>Raspberry Pi IoT Router</b><br><sub>Ethernet expansion board</sub> | [<img src="./assets/drona.png" width="240">](https://github.com/TudorReve/Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects)<br><b>Guitar DSP Board</b><br><sub>Audio signal processing</sub> |
