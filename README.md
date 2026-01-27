@@ -63,7 +63,7 @@
 
 ---
 
-## 📌 Pinned Repositories
+## 📌 My Projects
 
 <p align="center">
   <a href="https://github.com/USERNAME/repo-1">
