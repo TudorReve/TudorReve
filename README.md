@@ -36,14 +36,14 @@
 ### 💻 Programming & Tools
 <p>
   <!-- Programming languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="56"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="56"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="56"/>
 
   <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/>
-  <img src="./assets/altium.png" width="40" alt="Altium Designer"/>
-  <img src="./assets/orcad.png" width="40" alt="OrCAD"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="56"/>
+  <img src="./assets/altium.png" width="56" alt="Altium Designer"/>
+  <img src="./assets/orcad.png" width="56" alt="OrCAD"/>
 </p>
 
 
