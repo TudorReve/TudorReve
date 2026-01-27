@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Revei Tudor Stefan</h1>
-<h3 align="center">⚡ Young Electronics Engineer | Passionate Learner</h3>
+<h3 align="center">⚡ Electronics & Embedded Systems Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/tudor-revei-b6b2002b8" target="_blank">
@@ -18,22 +18,21 @@
 
 ### 🧠 About Me
 - 🔌 Passionate about **Electronics & Embedded Systems**
-- 🚀 Always curious to learn new technologies
-- 🛠️ Enjoy working on **hardware + software integration**
+- 🧠 Strong interest in **microcontrollers & low-level programming**
+- 🚀 Always learning and experimenting with new technologies
 
 ### 🌍 Languages
 - 🇷🇴 Romanian — **Expert**
 - 🇬🇧 English — **Expert**
 - 🇩🇪 German — **Beginner**
 
-### 🛠️ Skills
-- Electronics Knowledge  
-- VHDL  
-- MicroPython  
-- CID (Cell ID / Location Services)  
-- OrCAD  
+### 🛠️ Core Skills
+- 🐍 **Python / MicroPython**
+- 🔧 **Altium Designer (PCB Design)**
+- 🤖 **Microcontrollers (ESP32, STM32, Arduino)**
+- ⚡ **Embedded Systems & Hardware Debugging**
 
-### 💻 Programming Languages & Tools
+### 💻 Programming & Tools
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -45,11 +44,11 @@
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/3o7TKxoh0kY6p8kFLa/giphy.gif" 
-     alt="Drone Technology" 
+<img src="https://media.giphy.com/media/3o7TKxoh0kY6p8kFLa/giphy.gif"
+     alt="Drone Technology"
      width="320"/>
 
-<p><i>Embedded systems & aerial technology 🚁</i></p>
+<p><i>Embedded systems & aerial tech 🚁</i></p>
 
 </td>
 </tr>
@@ -57,6 +56,29 @@
 
 ---
 
+## 📌 Pinned Repositories
+
 <p align="center">
-  ⚡ <b>“Turning ideas into electronic reality”</b>
+  <a href="https://github.com/USERNAME/repo-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-1&theme=dark" />
+  </a>
+  <a href="https://github.com/USERNAME/repo-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-2&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/USERNAME/repo-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-3&theme=dark" />
+  </a>
+  <a href="https://github.com/USERNAME/repo-4">
+    <img src="https://github.com/USERNAME/repo-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-4&theme=dark" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ <b>“Turning ideas into reliable embedded solutions”</b>
 </p>
