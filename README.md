@@ -69,7 +69,7 @@
   <a href="https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&repo=Intelligent-FPV-Drone-for-Object-Detection-and-Tracking&theme=dark" />
   </a>
-  <a href="https://github.com/TudorReve/Danger-Alert-System">
+  <a href="https://github.com/TudorReve/ESP32-Based-Emergency-Alert-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&repo=Danger-Alert-System&theme=dark" />
   </a>
 </p>
