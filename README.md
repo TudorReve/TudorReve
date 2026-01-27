@@ -66,19 +66,19 @@
 ## 📌 My Projects
 
 <p align="center">
-  <a href="https://github.com/USERNAME/repo-1">
+  <a href="https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-1&theme=dark" />
   </a>
-  <a href="https://github.com/USERNAME/repo-2">
+  <a href="https://github.com/TudorReve/Danger-Alert-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-2&theme=dark" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/USERNAME/repo-3">
+  <a href="[https://github.com/USERNAME/repo-3](https://github.com/TudorReve/Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-3&theme=dark" />
   </a>
-  <a href="https://github.com/USERNAME/repo-4">
+  <a href="[https://github.com/USERNAME/repo-4](https://github.com/TudorReve/Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-4&theme=dark" />
   </a>
 </p>
