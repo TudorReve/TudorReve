@@ -65,7 +65,46 @@
 
 ## 📌 My Projects
 
-| | |
-|:--:|:--:|
-| <p align="center">[<img src="./assets/drona.png" width="240">](https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking)<br><b>Intelligent FPV Drone</b><br><sub>Object detection & tracking</sub></p> | <p align="center">[<img src="./assets/drona.png" width="240">](https://github.com/TudorReve/Danger-Alert-System)<br><b>Danger Alert System</b><br><sub>Embedded safety solution</sub></p> |
-| <p align="center">[<img src="./assets/drona.png" width="240">](https://github.com/TudorReve/Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board)<br><b>Raspberry Pi IoT Router</b><br><sub>Ethernet expansion board</sub></p> | <p align="center">[<img src="./assets/drona.png" width="240">](https://github.com/TudorReve/Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects)<br><b>Guitar DSP Board</b><br><sub>Audio signal processing</sub></p> |
+<p align="center">
+  <table align="center" width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking">
+          <img src="./assets/drona.png" width="240" alt="Intelligent FPV Drone"/>
+        </a>
+        <br/>
+        <b>Intelligent FPV Drone</b><br/>
+        <sub>Object detection & tracking</sub>
+      </td>
+
+      <td align="center" width="50%">
+        <a href="https://github.com/TudorReve/Danger-Alert-System">
+          <img src="./assets/drona.png" width="240" alt="Danger Alert System"/>
+        </a>
+        <br/>
+        <b>Danger Alert System</b><br/>
+        <sub>Embedded safety solution</sub>
+      </td>
+    </tr>
+
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/TudorReve/Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board">
+          <img src="./assets/drona.png" width="240" alt="Raspberry Pi IoT Router"/>
+        </a>
+        <br/>
+        <b>Raspberry Pi IoT Router</b><br/>
+        <sub>Ethernet expansion board</sub>
+      </td>
+
+      <td align="center" width="50%">
+        <a href="https://github.com/TudorReve/Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects">
+          <img src="./assets/drona.png" width="240" alt="Guitar DSP Board"/>
+        </a>
+        <br/>
+        <b>Guitar DSP Board</b><br/>
+        <sub>Audio signal processing</sub>
+      </td>
+    </tr>
+  </table>
+</p>
