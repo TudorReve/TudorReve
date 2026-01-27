@@ -44,9 +44,10 @@
 
 <td width="40%" align="center">
 
-<img src="./assets/drone.gif" width="320" alt="Drone Technology"/>
-     alt="Drone Technology"
-     width="320"/>
+<p align="center">
+  <img src="./assets/drone.gif" width="320" alt="Drone Technology"/>
+</p>
+
 <p><i>Embedded systems & aerial technology 🚁</i></p>
 
 </td>
