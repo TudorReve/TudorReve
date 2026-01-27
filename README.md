@@ -44,7 +44,8 @@
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/3o7TKxoh0kY6p8kFLa/giphy.gif"
+<img src="./assets/drone.gif" width="320" alt="Drone Technology"/>
+
      alt="Drone Technology"
      width="320"/>
 
