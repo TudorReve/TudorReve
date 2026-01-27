@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Revei Tudor Stefan</h1>
-<h3 align="center">⚡ Electronics & Embedded Systems Enthusiast</h3>
+<h3 align="center">🚁 Electronics and Drones Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/tudor-revei-b6b2002b8" target="_blank">
@@ -17,9 +17,10 @@
 <td width="60%" valign="top">
 
 ### 🧠 About Me
-- 🔌 Passionate about **Electronics & Embedded Systems**
+- 🔌 Passionate about **Electronics, Embedded Systems & Drones**
 - 🧠 Strong interest in **microcontrollers & low-level programming**
 - 🚀 Always learning and experimenting with new technologies
+- 🚁 Curious about **flight control, sensors & aerial systems**
 
 ### 🌍 Languages
 - 🇷🇴 Romanian — **Expert**
@@ -37,7 +38,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
 </p>
 
 </td>
@@ -48,7 +48,7 @@
      alt="Drone Technology"
      width="320"/>
 
-<p><i>Embedded systems & aerial tech 🚁</i></p>
+<p><i>Embedded systems & aerial technology 🚁</i></p>
 
 </td>
 </tr>
@@ -72,7 +72,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-3&theme=dark" />
   </a>
   <a href="https://github.com/USERNAME/repo-4">
-    <img src="https://github.com/USERNAME/repo-4">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-4&theme=dark" />
   </a>
 </p>
@@ -80,5 +79,5 @@
 ---
 
 <p align="center">
-  ⚡ <b>“Turning ideas into reliable embedded solutions”</b>
+  ✈️ <b>“Engineering systems that don’t just work — they take flight.”</b>
 </p>
