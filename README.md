@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-1&theme=dark" />
+    <img src="./assets/drona.png" width="50" alt="MY FPV Drone"/>
   </a>
   <a href="https://github.com/TudorReve/Danger-Alert-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-2&theme=dark" />
