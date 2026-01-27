@@ -40,13 +40,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Altium%20Designer-0B0F19?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OrCAD-0B0F19?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0B0F19?style=for-the-badge&logo=mathworks&logoColor=white" />
+</p>
+
 </td>
 
 <td width="40%" align="center">
 
 <p align="center">
-<img src="./drone.gif" width="320" alt="Drone Technology"/>
-
+  <img src="./drone.gif" width="320" alt="Drone Technology"/>
 </p>
 
 <p><i>Embedded systems & aerial technology 🚁</i></p>
