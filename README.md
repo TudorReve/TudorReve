@@ -70,16 +70,16 @@
     <img src="./assets/drona.png" width="50" alt="MY FPV Drone"/>
   </a>
   <a href="https://github.com/TudorReve/Danger-Alert-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-2&theme=dark" />
+    <img src="./assets/drona.png" width="50" alt="MY FPV Drone"/>
   </a>
 </p>
 
 <p align="center">
   <a href="[https://github.com/USERNAME/repo-3](https://github.com/TudorReve/Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-3&theme=dark" />
+   <img src="./assets/drona.png" width="50" alt="MY FPV Drone"/>
   </a>
   <a href="[https://github.com/USERNAME/repo-4](https://github.com/TudorReve/Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo-4&theme=dark" />
+    <img src="./assets/drona.png" width="50" alt="MY FPV Drone"/>
   </a>
 </p>
 
