@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top"> in sectiunea asta poti adauga si youtube si sa fie cu link ul asta https://www.youtube.com/@tudorrevei3820/videos
+<td width="60%" valign="top"> 
 
 
 ### 🧠 About Me
