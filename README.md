@@ -8,20 +8,14 @@
   <a href="https://instagram.com/tudorrevei99" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/@tudorrevei3820/videos" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
 <table>
 <tr>
-<td width="60%" valign="top">
-  <!-- conținutul tău rămâne aici, neschimbat -->
-</td>
-</tr>
-</table>
+<td width="60%" valign="top"> in sectiunea asta poti adauga si youtube si sa fie cu link ul asta https://www.youtube.com/@tudorrevei3820/videos
+
 
 ### 🧠 About Me
 - 🔌 Passionate about **Electronics, Embedded Systems & Drones**
