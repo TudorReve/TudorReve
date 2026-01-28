@@ -15,6 +15,14 @@
 
 ---
 
+<table>
+<tr>
+<td width="60%" valign="top">
+  <!-- conținutul tău rămâne aici, neschimbat -->
+</td>
+</tr>
+</table>
+
 ### 🧠 About Me
 - 🔌 Passionate about **Electronics, Embedded Systems & Drones**
 - 🧠 Strong interest in **microcontrollers & low-level programming**
