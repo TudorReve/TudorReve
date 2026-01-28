@@ -8,13 +8,12 @@
   <a href="https://instagram.com/tudorrevei99" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://www.youtube.com/@tudorrevei3820/videos" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
 
 ---
-
-<table>
-<tr>
-<td width="60%" valign="top">
 
 ### 🧠 About Me
 - 🔌 Passionate about **Electronics, Embedded Systems & Drones**
