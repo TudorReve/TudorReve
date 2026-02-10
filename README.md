@@ -69,31 +69,26 @@
 
 ## 📌 My Projects
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&amp;repo=Intelligent-FPV-Drone-for-Object-Detection-and-Tracking&amp;theme=dark&amp;card_width=350&amp;cache_seconds=86400" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/TudorReve/ESP32-Based-Emergency-Alert-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&amp;repo=ESP32-Based-Emergency-Alert-System&amp;theme=dark&amp;card_width=350&amp;cache_seconds=86400" />
-      </a>
-    </td>
-  </tr>
+### 🚁 Intelligent FPV Drone for Object Detection and Tracking
+Real-time object detection & tracking for FPV drone applications.  
+🔗 https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking
 
-  <tr>
-    <td align="center">
-      <a href="https://github.com/TudorReve/Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&amp;repo=Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board&amp;theme=dark&amp;card_width=350&amp;cache_seconds=86400" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/TudorReve/Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&amp;repo=Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects&amp;theme=dark&amp;card_width=350&amp;cache_seconds=86400" />
-      </a>
-    </td>
-  </tr>
-</table>
+---
+
+### 🚨 ESP32-Based Emergency Alert System
+Emergency alert/notification system built around ESP32.  
+🔗 https://github.com/TudorReve/ESP32-Based-Emergency-Alert-System
+
+---
+
+### 🌐 Raspberry Pi IoT Mini Router – Ethernet Expansion Board
+IoT mini-router concept + Ethernet expansion board for Raspberry Pi.  
+🔗 https://github.com/TudorReve/Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board
+
+---
+
+### 🎸 Electric Guitar Audio Signal Processing Board – Distortion Effects
+Audio signal processing board for guitar distortion effects.  
+🔗 https://github.com/TudorReve/Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects
+
 
