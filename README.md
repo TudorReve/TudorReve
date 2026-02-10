@@ -1,88 +1,47 @@
-<h1 align="center">👋 Hi, I'm Revei Tudor Stefan</h1>
-<h3 align="center">🚁 Electronics and Drones Enthusiast</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/tudor-revei-b6b2002b8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/tudorrevei99" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@tudorrevei3820/videos" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
-
----
-
 <table>
-<tr>
-<td width="60%" valign="top"> 
+  <tr>
+    <td width="60%" valign="top">
 
+      <h3>🧠 About Me</h3>
+      <ul>
+        <li>🔌 Passionate about <b>Electronics, Embedded Systems & Drones</b></li>
+        <li>🧠 Strong interest in <b>microcontrollers & low-level programming</b></li>
+        <li>🚀 Always learning and experimenting with new technologies</li>
+        <li>🚁 Curious about <b>flight control, sensors & aerial systems</b></li>
+      </ul>
 
-### 🧠 About Me
-- 🔌 Passionate about **Electronics, Embedded Systems & Drones**
-- 🧠 Strong interest in **microcontrollers & low-level programming**
-- 🚀 Always learning and experimenting with new technologies
-- 🚁 Curious about **flight control, sensors & aerial systems**
+      <h3>🌍 Languages</h3>
+      <ul>
+        <li>🇷🇴 Romanian — <b>Expert</b></li>
+        <li>🇬🇧 English — <b>Expert</b></li>
+        <li>🇩🇪 German — <b>Beginner</b></li>
+      </ul>
 
-### 🌍 Languages
-- 🇷🇴 Romanian — **Expert**
-- 🇬🇧 English — **Expert**
-- 🇩🇪 German — **Beginner**
+      <h3>🛠️ Core Skills</h3>
+      <ul>
+        <li>🐍 <b>Python / MicroPython</b></li>
+        <li>🔧 <b>Altium Designer (PCB Design)</b></li>
+        <li>🤖 <b>Microcontrollers (ESP32, STM32, Arduino)</b></li>
+        <li>⚡ <b>Embedded Systems & Hardware Debugging</b></li>
+      </ul>
 
-### 🛠️ Core Skills
-- 🐍 **Python / MicroPython**
-- 🔧 **Altium Designer (PCB Design)**
-- 🤖 **Microcontrollers (ESP32, STM32, Arduino)**
-- ⚡ **Embedded Systems & Hardware Debugging**
+      <h3>💻 Programming & Tools</h3>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="56"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="56"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="56"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="56"/>
+        <img src="./assets/altium.png" width="56" alt="Altium Designer"/>
+        <img src="./assets/orcad.png" width="56" alt="OrCAD"/>
+      </p>
 
-### 💻 Programming & Tools
-<p>
-  <!-- Programming languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="56"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="56"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="56"/>
+    </td>
 
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="56"/>
-  <img src="./assets/altium.png" width="56" alt="Altium Designer"/>
-  <img src="./assets/orcad.png" width="56" alt="OrCAD"/>
-</p>
-
-
-</td>
-
-<td width="40%" align="center">
-
-<p align="center">
-  <img src="./drone.gif" width="320" alt="Drone Technology"/>
-</p>
-
-<p><i>Embedded systems & aerial technology 🚁</i></p>
-
-</td>
-</tr>
+    <td width="40%" valign="top" align="center">
+      <p>
+        <img src="./drone.gif" width="320" alt="Drone Technology"/>
+      </p>
+      <p><i>Embedded systems & aerial technology 🚁</i></p>
+    </td>
+  </tr>
 </table>
-
----
-
-## 📌 My Projects
-
-<p align="center">
-  <a href="https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&repo=Intelligent-FPV-Drone-for-Object-Detection-and-Tracking&theme=dark&card_width=350" />
-  </a>
-  <a href="https://github.com/TudorReve/ESP32-Based-Emergency-Alert-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&repo=ESP32-Based-Emergency-Alert-System&theme=dark&card_width=350" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/TudorReve/Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&repo=Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board&theme=dark&card_width=350" />
-  </a>
-  <a href="https://github.com/TudorReve/Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&repo=Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects&theme=dark&card_width=350" />
-  </a>
-</p>
