@@ -73,24 +73,25 @@
   <tr>
     <td align="center">
       <a href="https://github.com/TudorReve/Intelligent-FPV-Drone-for-Object-Detection-and-Tracking">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&repo=Intelligent-FPV-Drone-for-Object-Detection-and-Tracking&theme=dark&card_width=350&cache_seconds=86400" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&amp;repo=Intelligent-FPV-Drone-for-Object-Detection-and-Tracking&amp;theme=dark&amp;card_width=350&amp;cache_seconds=86400" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/TudorReve/ESP32-Based-Emergency-Alert-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&repo=ESP32-Based-Emergency-Alert-System&theme=dark&card_width=350&cache_seconds=86400" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&amp;repo=ESP32-Based-Emergency-Alert-System&amp;theme=dark&amp;card_width=350&amp;cache_seconds=86400" />
       </a>
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <a href="https://github.com/TudorReve/Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&repo=Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board&theme=dark&card_width=350&cache_seconds=86400" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&amp;repo=Raspberry-Pi-IoT-Mini-Router-Ethernet-Expansion-Board&amp;theme=dark&amp;card_width=350&amp;cache_seconds=86400" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/TudorReve/Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&repo=Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects&theme=dark&card_width=350&cache_seconds=86400" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TudorReve&amp;repo=Electric-Guitar-Audio-Signal-Processing-Board-Distortion-Effects&amp;theme=dark&amp;card_width=350&amp;cache_seconds=86400" />
       </a>
     </td>
   </tr>
